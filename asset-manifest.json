@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/finance-planner/static/css/main.ea11cfc4.css",
+    "main.js": "/finance-planner/static/js/main.b0432a2a.js",
+    "static/js/787.f2c50d3a.chunk.js": "/finance-planner/static/js/787.f2c50d3a.chunk.js",
+    "index.html": "/finance-planner/index.html",
+    "main.ea11cfc4.css.map": "/finance-planner/static/css/main.ea11cfc4.css.map",
+    "main.b0432a2a.js.map": "/finance-planner/static/js/main.b0432a2a.js.map",
+    "787.f2c50d3a.chunk.js.map": "/finance-planner/static/js/787.f2c50d3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea11cfc4.css",
+    "static/js/main.b0432a2a.js"
+  ]
+}
